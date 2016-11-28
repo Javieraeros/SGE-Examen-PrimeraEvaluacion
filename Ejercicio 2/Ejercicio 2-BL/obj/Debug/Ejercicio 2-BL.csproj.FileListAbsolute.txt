@@ -7,3 +7,12 @@ C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejerc
 C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-BL\obj\Debug\Ejercicio 2-BL.csprojResolveAssemblyReference.cache
 C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-BL\obj\Debug\Ejercicio 2-BL.dll
 C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-BL\obj\Debug\Ejercicio 2-BL.pdb
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejercicio 2-BL.dll
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejercicio 2-BL.pdb
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejercicio 2-ENT.dll
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejercico 2-DAL.dll
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejercicio 2-ENT.pdb
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\bin\Debug\Ejercico 2-DAL.pdb
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\obj\Debug\Ejercicio 2-BL.csprojResolveAssemblyReference.cache
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\obj\Debug\Ejercicio 2-BL.dll
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-BL\obj\Debug\Ejercicio 2-BL.pdb

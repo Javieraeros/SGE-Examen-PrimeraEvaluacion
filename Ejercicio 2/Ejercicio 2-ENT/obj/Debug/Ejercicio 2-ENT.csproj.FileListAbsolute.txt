@@ -3,3 +3,8 @@ C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-ENT\bin\Debug\Ejer
 C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-ENT\obj\Debug\Ejercicio 2-ENT.csprojResolveAssemblyReference.cache
 C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-ENT\obj\Debug\Ejercicio 2-ENT.dll
 C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercicio 2-ENT\obj\Debug\Ejercicio 2-ENT.pdb
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-ENT\bin\Debug\Ejercicio 2-ENT.dll
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-ENT\bin\Debug\Ejercicio 2-ENT.pdb
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-ENT\obj\Debug\Ejercicio 2-ENT.csprojResolveAssemblyReference.cache
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-ENT\obj\Debug\Ejercicio 2-ENT.dll
+C:\Users\Pajar\Documents\GitHub\SGE-Examen-PrimeraEvaluacion\Ejercicio 2\Ejercicio 2-ENT\obj\Debug\Ejercicio 2-ENT.pdb

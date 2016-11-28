@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Ejercicio_2_BL.Listados;
+using Ejercicio_2_UI.Models;
 
 namespace Ejercicio_2_UI.Controllers
 {
@@ -23,9 +24,8 @@ namespace Ejercicio_2_UI.Controllers
         /// <returns></returns>
         public ActionResult Index()
         {
-            ListadosCategorias_BL miListado = new ListadosCategorias_BL();
-            List<Categoria> miLista = miListado.listadoCategorias();
-            return View();
+            ProductoVM pro = new ProductoVM();
+            return View(pro);
         }
 
         /// <summary>
@@ -35,11 +35,14 @@ namespace Ejercicio_2_UI.Controllers
         /// <param name="p"></param>
         /// <returns></returns>
         [HttpPost,ActionName("Index")]
-        public ActionResult PostIndex(Producto p)
+        public ActionResult PostIndex(ProductoVM p)
         {
+
+            ProductoVM pro = new ProductoVM();
             ManejadoraProductos_BL miMane = new ManejadoraProductos_BL();
-            int resultado = miMane.insertaProducto(p);
-            return View();
+            Producto producto = new Producto(0, p.IdCategoria, p.NombreProducto);
+            int resultado = miMane.insertaProducto(producto);
+            return View(pro);
         }
     }
 }
