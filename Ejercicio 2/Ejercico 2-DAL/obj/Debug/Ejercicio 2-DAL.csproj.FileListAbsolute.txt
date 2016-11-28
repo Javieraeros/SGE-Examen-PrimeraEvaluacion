@@ -1,0 +1,7 @@
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\bin\Debug\Ejercico 2-DAL.dll
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\bin\Debug\Ejercico 2-DAL.pdb
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\bin\Debug\Ejercicio 2-ENT.dll
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\bin\Debug\Ejercicio 2-ENT.pdb
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\obj\Debug\Ejercicio 2-DAL.csprojResolveAssemblyReference.cache
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\obj\Debug\Ejercico 2-DAL.dll
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 2\Ejercico 2-DAL\obj\Debug\Ejercico 2-DAL.pdb

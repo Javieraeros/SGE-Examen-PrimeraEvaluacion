@@ -1,0 +1,4 @@
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 1\Ejercicio 1-ENT\bin\Debug\Ejercicio 1-ENT.dll
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 1\Ejercicio 1-ENT\bin\Debug\Ejercicio 1-ENT.pdb
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 1\Ejercicio 1-ENT\obj\Debug\Ejercicio 1-ENT.dll
+C:\Users\fjrodriguez\Documents\GitHub\Ejercicio 1\Ejercicio 1-ENT\obj\Debug\Ejercicio 1-ENT.pdb

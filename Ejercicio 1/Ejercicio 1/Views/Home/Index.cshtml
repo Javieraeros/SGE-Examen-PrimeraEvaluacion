@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+    <div> 
+        <label>Introduce el nick: </label>
+        <input type="text" name="nick" />
+        <br/>
+        <label>Introduce el id: </label>
+        <input type="number" name="idIntroducido"/>
+        <br />
+        <input type="submit" value="Siguiente"/>
+    </div>
+    }
+</body>
+</html>

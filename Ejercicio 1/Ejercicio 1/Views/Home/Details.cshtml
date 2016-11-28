@@ -1,0 +1,75 @@
+﻿@model Ejercicio_1_ENT.Persona
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <!--Ponemos esto para que si el nick está vacío, no nos lo muestre-->   
+    @{ if (Session["usuario"] != "")
+        {
+            <div>
+                <label>Nick: </label>
+                @Session["usuario"]
+
+            </div>
+        }
+    }
+    <div>
+        <h4>Persona</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Apellidos)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Apellidos)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.FechaNac)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FechaNac)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.telefono)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.telefono)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.direccion)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.direccion)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
